@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author" : "Youssef Hajji",
 	"description": "A project that does something awesome",
+	"keywords": [ "freecodecamp", "managing", "packages", "with", "NPM" ],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
